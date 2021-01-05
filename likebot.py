@@ -36,3 +36,8 @@ while s > nm and len:
 		except:
 				f=True
 				nm=nm+25
+
+
+print("\033[1;92mall finished !\033[0m")
+
+os._exit(1)
